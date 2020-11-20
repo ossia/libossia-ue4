@@ -1,0 +1,3 @@
+[submodule "libossia"]
+	path = libossia
+	url = git@github.com:ossia/libossia
